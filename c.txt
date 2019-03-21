@@ -1,2 +1,1 @@
-first message c
-second message c
+0
